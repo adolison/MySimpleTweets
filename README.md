@@ -18,6 +18,8 @@ The following libraries are used to make this possible:
  * [codepath-oauth](https://github.com/thecodepath/android-oauth-handler) - Custom-built library for managing OAuth authentication and signing of requests
  * [Glide](https://github.com/bumptech/glide) - Used for async image loading and caching them in memory and on disk.
  * [DBFlow](https://github.com/Raizlabs/DBFlow) - Simple ORM for persisting a local SQLite database on the Android device
+ 
+<img src='https://raw.githubusercontent.com/adolison/MySimpleTweets/master/Twitter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Usage
 
