@@ -19,8 +19,6 @@ The following libraries are used to make this possible:
  * [Glide](https://github.com/bumptech/glide) - Used for async image loading and caching them in memory and on disk.
  * [DBFlow](https://github.com/Raizlabs/DBFlow) - Simple ORM for persisting a local SQLite database on the Android device
  
-<img src='https://raw.githubusercontent.com/adolison/MySimpleTweets/master/Twitter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 ## Usage
 
 ### 1. Configure the REST client
